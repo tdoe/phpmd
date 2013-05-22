@@ -2,4 +2,5 @@
 .idea
 .sonar
 composer.phar
-vendor
+.idea/
+*.iml
